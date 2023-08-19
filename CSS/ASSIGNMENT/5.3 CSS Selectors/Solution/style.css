@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+
+.main1{
+    color:red;
+}
+
+.main3{
+    color:green;
+}
+
+.main4{
+    color:blue
+}
+
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    font-size: 20px;
+    list-style-position: inside;
+  }
